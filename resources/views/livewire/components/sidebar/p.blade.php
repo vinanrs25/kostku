@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div>
+        <input type="text" name="nama" id="">
+    </div>
 </body>
 </html>
